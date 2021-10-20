@@ -54,3 +54,5 @@
 ### API
 - Для российского рынка: 
 - Для зарубежного рынка: https://www.alphavantage.co/
+
+### [Биржи](https://rustemusmanov.ru/krupnejshie-birzhi-mira-skolko-aktsij-torguetsya-v-mire-i-v-rossii/)
