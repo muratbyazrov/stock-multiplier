@@ -59,4 +59,4 @@
 - [Краткий обзор](https://rustemusmanov.ru/krupnejshie-birzhi-mira-skolko-aktsij-torguetsya-v-mire-i-v-rossii/)
 
 ### ВсеАкции
-Этот [сервис](https://vseakcii.ru/) примерно делает то, что я хочу написать своими силами
+- Этот [сервис](https://vseakcii.ru/) примерно делает то, что я хочу написать своими силами
