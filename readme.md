@@ -56,4 +56,4 @@
 - Для зарубежного рынка: https://www.alphavantage.co/
 
 ### Биржи
-[Краткий обзор](https://rustemusmanov.ru/krupnejshie-birzhi-mira-skolko-aktsij-torguetsya-v-mire-i-v-rossii/)
+- [Краткий обзор](https://rustemusmanov.ru/krupnejshie-birzhi-mira-skolko-aktsij-torguetsya-v-mire-i-v-rossii/)
