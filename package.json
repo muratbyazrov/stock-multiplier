@@ -10,6 +10,8 @@
     "build": "nest build",
     "format": "prettier --write \\\"src/**/*.ts\\\" \\\"test/**/*.ts\\\"",
     "start": "nest start",
+    "pg-init": "sudo docker run --name multiplier -e POSTGRES_PASSWORD=password -d -p 5435:5435 postgres",
+    "pg-rm": "sudo docker stop multiplier && sudo docker rm multiplier",
     "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
     "start:prod": "node dist/main",
